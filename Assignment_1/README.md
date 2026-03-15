@@ -1,4 +1,4 @@
-# Assignment 1 - Operating Systems
+# Operating Systems - Kernel Modification
 
 ## Group Details
 1. Bala Phanikar Challa
